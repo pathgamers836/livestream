@@ -1,0 +1,4 @@
+{
+  "scripts": { "start": "bash index.sh" },
+  "plugins": ["@railway/plugin-ffmpeg"]
+}
